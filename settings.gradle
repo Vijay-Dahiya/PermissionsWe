@@ -1,0 +1,2 @@
+rootProject.name = "PrefrencesFirst"
+include ':app'
